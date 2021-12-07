@@ -1,0 +1,3 @@
+- Lógica de programação essencial
+- Introdução ao Git e ao GitHub
+- Estrutura de dados de algoritimos
